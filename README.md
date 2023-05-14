@@ -5,8 +5,9 @@ The goal of the Moodle learning management system is to give teachers, administr
 Demo Video : https://youtu.be/EEfOscDUUUk 
 
 
-HOW TO USE IT
-=============
+## HOW TO USE IT
+
+<hr>
 
 1. Run 'Start Moodle.exe' to start up the system.
 
@@ -18,8 +19,9 @@ HOW TO USE IT
 4. If you want to shut down the Moodle server, use 'Stop Moodle.exe'
 
 
-TECHNICAL INFORMATION
-=====================
+## TECHNICAL INFORMATION
+
+<hr>
 
 1. Start/Stop Moodle.exe
 
@@ -44,8 +46,9 @@ All moodle files are located in server/moodle/
 In order to optimize your Moodle Environment, see the Moodle Performance docs. 
 
 
-TROUBLESHOOTING
-===============
+## TROUBLESHOOTING
+
+<hr>
 
 If 'Start Moodle.exe' fails to work and the windows closes automatically, 
 you may have something blocking port 80 on your machine.  Make sure there
@@ -64,7 +67,7 @@ Do not rename the 'server/' folder. Otherwise 'Start Moodle.exe' and
 executable files. (xammp-control.exe)
 
 
-## Team Members
+## TEAM MEMBERS
 <hr>
 <table>
     <tr>
@@ -89,7 +92,8 @@ executable files. (xammp-control.exe)
        <td align="center">
             <a href="https://www.linkedin.com/in/swarnamoy-ghosh-681746224/">
                 <img src="https://i.postimg.cc/fy4B75qM/image.png" width="120px;" alt=""/>
-                <p><b>DSwarnamoy Ghosh</b></p><br />
+                <p><b>Swarnamoy Ghosh</b></p><br />
             </a>
         </td>
+       </tr>
 </table>
